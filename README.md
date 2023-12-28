@@ -22,9 +22,6 @@ Here're some of the project's best features:
 *   Search
 *   Map
 
-<h2>🛠️ Installation Steps:</h2>
-
-  
   
 <h2>💻 Built with</h2>
 
